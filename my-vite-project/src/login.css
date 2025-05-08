@@ -1,0 +1,39 @@
+/* Background color and font settings */
+.login-page {
+    background-color: #e0b44c; /* golden background */
+    font-family: 'Arial', sans-serif; /* simple, readable font */
+  }
+  
+  /* Logo style */
+  .logo {
+    width: 150px;
+    height: auto;
+  }
+  
+  /* Input fields */
+  .form-control {
+    background-color: #d9d9d9; /* light grey like the picture */
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  /* Buttons */
+  .btn-primary {
+    background-color: #d9d9d9;
+    color: #333;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .btn-secondary {
+    background-color: #d9d9d9;
+    color: #333;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  /* Text */
+  .text-white {
+    color: white;
+  }
+  
